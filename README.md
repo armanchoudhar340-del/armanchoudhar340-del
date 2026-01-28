@@ -1,4 +1,5 @@
-Hi 👋, I'm Arman Choudhary  
+<h1 align="center">👋 Arman Choudhary</h1>
+<h3 align="center">💻 Web Developer in the making | ⚙️ Logic lover | 🌐 Curious about how the web really works</h3>
 
 💻 Web Developer in the making | ⚙️ Logic lover | 🌐 Curious about how the web really works  
 
