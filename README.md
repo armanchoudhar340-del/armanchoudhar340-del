@@ -1,8 +1,6 @@
 <h1 align="center">👋 Arman Choudhary</h1>
 <h3 align="center">💻 Web Developer in the making | ⚙️ Logic lover | 🌐 Curious about how the web really works</h3>
 
-💻 Web Developer in the making | ⚙️ Logic lover | 🌐 Curious about how the web really works  
-
 I’m someone who likes to understand things from the basics.
 Instead of just making things “work”, I try to figure out *why* they work.
 Most of my learning comes from breaking stuff, fixing it, and building it again — better.
